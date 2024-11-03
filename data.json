@@ -23,6 +23,6 @@
                 "uri": "https://www.dropbox.com/s/abcd1234efgh5678/file.zip?dl=0"
             }
         ],
-        "videoUrl": "https://www.youtube.com/watch?v=dAQBo9BGRdA" // Novo campo para o link do vídeo
+        "videoUrl": "https://www.youtube.com/watch?v=dAQBo9BGRdA" // Novo campo para o link do vídeo URL do Youtube ou Link Direto do formato MP4
     }
 ]
