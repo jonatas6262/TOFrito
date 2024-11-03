@@ -13,7 +13,16 @@
                 "uri": "magnet:?xt=urn:btih:9A4ABEB59E609F6B644FB0A70EC2C327D58253A5&tr=http://bt.t-ru.org/ann?magnet&dn=[Nintendo%20Switch]%20Super%20Mario%20Party%20Jamboree%20[NSP][RUS/Multi11]"
             }
         ],
-        "browserUri": "https://drive.google.com/file/d/1XHcVd5QOHCKKVvhhlO65nDbYrXvnLAxy/view"
+        "browserUris": [
+            {
+                "name": "Google Drive",
+                "uri": "https://drive.google.com/file/d/1XHcVd5QOHCKKVvhhlO65nDbYrXvnLAxy/view"
+            },
+            {
+                "name": "Dropbox",
+                "uri": "https://www.dropbox.com/s/abcd1234efgh5678/file.zip?dl=0"
+            }
+        ]
     },
     {
         "fileName": "#AZelza",
@@ -29,6 +38,15 @@
                 "uri": "magnet:?xt=urn:btih:9A4ABEB59E609F6B644FB0A70EC2C327D58253A5&tr=http://bt.t-ru.org/ann?magnet&dn=[Nintendo%20Switch]%20Super%20Mario%20Party%20Jamboree%20[NSP][RUS/Multi11]"
             }
         ],
-        "browserUri": "https://drive.google.com/file/d/1XHcVd5QOHCKKVvhhlO65nDbYrXvnLAxy/view"
+        "browserUris": [
+            {
+                "name": "Google Drive",
+                "uri": "https://drive.google.com/file/d/1XHcVd5QOHCKKVvhhlO65nDbYrXvnLAxy/view"
+            },
+            {
+                "name": "Dropbox",
+                "uri": "https://www.dropbox.com/s/abcd1234efgh5678/file.zip?dl=0"
+            }
+        ]
     }
 ]
