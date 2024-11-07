@@ -27,6 +27,6 @@
                 "uri": "https://www.mediafire.com/file_premium/sip1a8c27kafxye/Pok%25C3%25A9mon_SV_DLC_3.0.1_TPKG.zip/file"
             }
         ],
-        "videoUrl": "https://www.youtube.com/watch?v=dAQBo9BGRdA" // Novo campo para o link do vídeo URL do Youtube ou Link Direto do formato MP4
+        "videoUrl": "https://www.youtube.com/watch?v=dAQBo9BGRdA"
     }
 ]
